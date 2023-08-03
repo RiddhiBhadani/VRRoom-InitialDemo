@@ -4815,7 +4815,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 4294967291
   m_AttachTransform: {fileID: 1092806474}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 6069904500843224116}
@@ -6219,8 +6219,8 @@ SphereCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 2
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Radius: 0.47398147
+  m_Center: {x: -8.2920765e-10, y: 0.21557844, z: 0.01276676}
 --- !u!114 &992224763
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6238,7 +6238,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 4
   m_AttachTransform: {fileID: 6303848439462071663}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 1500423730307577643}
@@ -14188,7 +14188,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 4294967295
+    m_Bits: 4294967291
   m_AttachTransform: {fileID: 678516544}
   m_KeepSelectedTargetValid: 1
   m_StartingSelectedInteractable: {fileID: 4844571851191685990}
@@ -24406,7 +24406,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 4294967295
   m_InteractionLayers:
-    m_Bits: 1
+    m_Bits: 4
   m_SelectMode: 0
   m_CustomReticle: {fileID: 0}
   m_FirstHoverEntered:
@@ -29385,7 +29385,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5203349420887539567}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.78499985, y: 1.435, z: 0.7960001}
+  m_LocalPosition: {x: -0.57, y: 0.3, z: 1.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
